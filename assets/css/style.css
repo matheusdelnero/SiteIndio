@@ -798,17 +798,20 @@ ul {
  * 05.About Section Style
  *************************************/
 .about-area {
+	background-color: white;
 	position: relative;
 	z-index: 1;
 }
 
 .about-content h2 {
+	color: black;
 	font-size: 33px;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
 
 .about-content-text p {
+	color: black;
 	margin-bottom: 15px;
 }
 .about-content-text .button {
@@ -820,12 +823,13 @@ ul {
 }
 
 .about-list li {
+	color: #000;
 	position: relative;
 	line-height: 45px;
 }
 
 .about-list li i {
-    color: #ffffff;
+    color: #000000;
     width: 30px;
     height: 30px;
     line-height: 30px;
@@ -983,6 +987,9 @@ ul {
 	font-weight: 600;
 }
 
+
+
+
 .roadmap-slider .main-box .roadmap-chart {
 	overflow: hidden;
 }
@@ -1056,17 +1063,18 @@ ul {
 .counter-area {
 	position: relative;
     text-align: center;
+	background: white;
 }
 
 .counter-contents h2 {
-	color: #fff;
+	color: #000000;
 	font-size: 45px;
 	font-weight: 700;
 	margin-bottom: 5px;
 	word-spacing: -10px;
 }
 .counter-contents h3 {
-	color: #fff;
+	color: #000000;
 	font-size: 18px;
 	font-weight: 500;
 }
@@ -1074,8 +1082,13 @@ ul {
 /**************************************
  * 10.Team Section Style
  *************************************/
-.team-area {
+ 
+.team-area{
+	background-color: white;
+
 }
+ 
+
 
 .team-area .section-title {
 	margin-bottom: 45px;
@@ -1526,12 +1539,18 @@ textarea:focus {
 /**************************************
  * 16.Footer Section Style
  *************************************/
+
+
+.footer-area{
+	background-color: white;
+}
+
 .footer-top-wrapper {
 	background-color: #080625
 }
 .footer-bottom-wrapper {
 	padding: 30px 0;
-	background-color: #0c0938;
+	background-color: #ffffff;
 }
 .footer-about .footer-logo {
 	color: #fff;
@@ -1541,7 +1560,7 @@ textarea:focus {
 	display: block;
 }
 .footer-about p {
-	color: #fff;
+	color: #000000;
 }
 .pl-30 {
 	padding-left: 30px;
@@ -1552,7 +1571,7 @@ textarea:focus {
 .footer-list h5 {
 	font-size: 18px;
 	font-weight: 700;
-	color: #fff;
+	color: #000000;
 	margin-bottom: 18px;
 }
 .footer-list ul li a {
@@ -1572,7 +1591,7 @@ textarea:focus {
 	margin-right: 10px;
 }
 .footer-social-icon li a {
-	color: #fff;
+	color: #000000;
 	background: #6332f0;
 	border-radius: 30px;
 	width: 40px;
