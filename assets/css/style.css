@@ -31,7 +31,7 @@
  *************************************/
 
 body {
-	background: #034e61;
+	background: #000000;
 	color: #ffffff;
 	font-family: 'Raleway', sans-serif;
 	font-size: 14px;
@@ -701,7 +701,7 @@ ul {
 	position: relative;
 	color: #fff;
 	text-align: center;
-	background: rgba(26, 248, 230, 0.336);
+	background: rgb(0, 0, 0);
 	
 	padding-top: 130px;
 	padding-bottom: 40px;
