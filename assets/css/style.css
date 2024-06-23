@@ -252,7 +252,7 @@ ul {
 	top: 0;
 	right: 15px;
 	color: #ffffff;
-	background: #6332f0;
+	background: #2da329;
 	z-index: 4;
 	width: 40px;
 	text-align: center;
@@ -798,20 +798,20 @@ ul {
  * 05.About Section Style
  *************************************/
 .about-area {
-	background-color: white;
+	background-color: rgba(14, 68, 0, 0.288);
 	position: relative;
 	z-index: 1;
 }
 
 .about-content h2 {
-	color: black;
+	color: rgb(255, 255, 255);
 	font-size: 33px;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
 
 .about-content-text p {
-	color: black;
+	color: rgb(255, 255, 255);
 	margin-bottom: 15px;
 }
 .about-content-text .button {
@@ -823,13 +823,13 @@ ul {
 }
 
 .about-list li {
-	color: #000;
+	color: #ffffff;
 	position: relative;
 	line-height: 45px;
 }
 
 .about-list li i {
-    color: #000000;
+    color: #ffffff;
     width: 30px;
     height: 30px;
     line-height: 30px;
@@ -861,7 +861,7 @@ ul {
 	padding: 50px 30px;
 	text-align: center;
 	border-radius: 3px;
-    background-color: rgb(70, 58, 255, 0.12);
+    background-color: rgba(14, 68, 0, 0.288);
 	margin-top: 35px;
     -webkit-transition: all 500ms ease-out;
     transition: all 500ms ease-out;
@@ -1063,18 +1063,18 @@ ul {
 .counter-area {
 	position: relative;
     text-align: center;
-	background: white;
+	background: rgba(14, 68, 0, 0.288);
 }
 
 .counter-contents h2 {
-	color: #000000;
+	color: #ffffff;
 	font-size: 45px;
 	font-weight: 700;
 	margin-bottom: 5px;
 	word-spacing: -10px;
 }
 .counter-contents h3 {
-	color: #000000;
+	color: #ffffff;
 	font-size: 18px;
 	font-weight: 500;
 }
@@ -1084,7 +1084,7 @@ ul {
  *************************************/
  
 .team-area{
-	background-color: white;
+	background-color: rgba(14, 68, 0, 0.288);
 
 }
  
@@ -1541,16 +1541,14 @@ textarea:focus {
  *************************************/
 
 
-.footer-area{
-	background-color: white;
-}
+
 
 .footer-top-wrapper {
-	background-color: #080625
+	background-color: rgba(14, 68, 0, 0.288);
 }
 .footer-bottom-wrapper {
 	padding: 30px 0;
-	background-color: #ffffff;
+	background-color: rgba(14, 68, 0, 0.288);
 }
 .footer-about .footer-logo {
 	color: #fff;
@@ -1560,7 +1558,7 @@ textarea:focus {
 	display: block;
 }
 .footer-about p {
-	color: #000000;
+	color: #ffffff;
 }
 .pl-30 {
 	padding-left: 30px;
@@ -1571,7 +1569,7 @@ textarea:focus {
 .footer-list h5 {
 	font-size: 18px;
 	font-weight: 700;
-	color: #000000;
+	color: #ffffff;
 	margin-bottom: 18px;
 }
 .footer-list ul li a {
